@@ -69,7 +69,7 @@ The skill only activates when you explicitly type `/writing-tools`. It will not 
 
 ## Attribution and copyright
 
-- The 51 writing tools are the work of **Roy Peter Clark**, from *Writing Tools: 50 Essential Strategies for Every Writer* (Little, Brown and Company). Clark also published a free [Quick List of the tools via the Poynter Institute](https://www.poynter.org/reporting-editing/2004/writing-tool-box-50-tools-you-can-use/).
+- The 51 writing tools are the work of **Roy Peter Clark**, from *Writing Tools: 50 Essential Strategies for Every Writer* (Little, Brown and Company). Clark also published a free [Quick List of the tools via the Poynter Institute](https://www.poynter.org/reporting-editing/2006/fifty-writing-tools-quick-list/).
 - This project is an independent fan work. It is **not affiliated with, endorsed by, or sponsored by** Roy Peter Clark, the Poynter Institute, or Little, Brown and Company.
 - The book cover image is included solely to identify the book being credited. All rights to the cover and the book belong to their respective owners. If you are a rights holder and want the image or anything else removed, open an issue and it will come down promptly.
 - The tool summaries and "when to reach for it" notes are short paraphrases written for this skill. Buy the book for the real thing.
