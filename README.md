@@ -1,6 +1,6 @@
 # writing-tools
 
-A free, open-source [Claude Code](https://claude.com/claude-code) skill that helps you write new content or clean up an existing draft, guided by the 51 writing tools from Roy Peter Clark's book **[Writing Tools: 50 Essential Strategies for Every Writer](https://www.hachettebookgroup.com/titles/roy-peter-clark/writing-tools-10th-anniversary-edition/9780316211307/)**.
+A free, open-source [Claude Code](https://claude.com/claude-code) skill that helps you write new content or clean up an existing draft, guided by the 51 writing tools from Roy Peter Clark's book **[Writing Tools: 50 Essential Strategies for Every Writer](https://www.amazon.com/Writing-Tools-Essential-Strategies-Writer-ebook/dp/B000SEIW9E)**.
 
 <p align="center">
   <img src="assets/cover.jpg" alt="Writing Tools by Roy Peter Clark book cover" width="250">
